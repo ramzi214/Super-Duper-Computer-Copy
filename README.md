@@ -17,20 +17,20 @@ A powerful AI-powered development environment with unlimited capabilities.
 npm install
 ```
 
-2. **Configure environment (optional):**
+1. **Configure environment (optional):**
 
 ```bash
 cp .env.example .env
 # Edit .env with your OpenAI API key for real AI functionality
 ```
 
-3. **Start development server:**
+1. **Start development server:**
 
 ```bash
 npm run dev
 ```
 
-4. **Build for production:**
+1. **Build for production:**
 
 ```bash
 npm run build
@@ -132,3 +132,11 @@ MIT License - feel free to use for any purpose.
 ## 🎮 About Ramzi Arcade
 
 Built with ❤️ for unlimited creative possibilities.
+
+1. First list
+
+    ```text
+    Code block
+    ```
+
+2. Second list
